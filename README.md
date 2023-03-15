@@ -1,6 +1,6 @@
 <!-- # HTML-Informational a -->
 
-<!--Built and designed an Informational webpage about HTML giving a background on its history, contributions, features, related RFCs, etc a -->
+<!--Built and designed an informational webpage about HTML giving a background on its history, contributions, features, related RFCs, etc a -->
 
 <!--!DOCTYPE html a -->
 <html>
