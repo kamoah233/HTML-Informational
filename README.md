@@ -1,6 +1,6 @@
 <!-- # HTML-Informational a -->
 
-<!--Informational webpage about HTML giving a background on its history, contributions, features, related RFCs, etc a -->
+<!--Built and designed an Informational webpage about HTML giving a background on its history, contributions, features, related RFCs, etc a -->
 
 <!--!DOCTYPE html a -->
 <html>
@@ -100,44 +100,6 @@ to word-processing applications like Microsoft Word.
 
 
 
-<!-- <p>For one of the important areas of Internet history listed below, locate a minimum of 4-5 reference sources of information. These sources must be from different internet archives of information and should not be simple copies of each other. </p>
-
-<ul>
-<li>E-mail Encryption</li>
-<li>SMTP</li>
-<li>Telnet</li>
-<li>FTP</li>
-<li>DNS</li>
-<li>TCP</li>
-<li>IP</li>
-<li>Electronic Funds Transfer via the Internet</li>
-<li>Internet Video Teleconferencing</li>
-<li>HTTP</li>
-<li>CSS</li>
-<li>Another approved topic</li>
-</ul>
-<br>
-<p> -->
-
-
-<!-- 
-The file must be written with HTML formatting characters embedded in the text to allows your
-favorite world wide web browser to display your information page (your text file).<br>
-You have a free hand in both the creation and implementation of the information page file, to
-incorporate essentially any elements and forms that you choose to use.The following are the
-absolute minimum elements that your web information page should contain:
-</p>
-<ul>
-<li>An identification section for the webpage(s) </li>
-<li>Identification of the Choosen Topic - description of the tool/protocol </li>
-<li>A list of the basic featues/capabilities this tool provides </li>
-<li>Description of hte contributions this tool has made to the Internet community </li>
-<li>A simplified history of the topic </li>
-<li>A section identifying pertinent RFC's for this topic </li>
-<li>Bibliographic Information of Resources Used </li>
-</ul>
-</body>
-</html> -->
 
 <!-- <img src="html-logo.jpg" alt="html" class="center"> -->
 <!-- .center{
