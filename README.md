@@ -1,8 +1,8 @@
-# HTML-Informational
+<!-- # HTML-Informational a -->
 
-Informational webpage about HTML giving a background on its history, contributions, features, related RFCs, etc
+<!--Informational webpage about HTML giving a background on its history, contributions, features, related RFCs, etc a -->
 
-<!DOCTYPE html>
+<!--!DOCTYPE html a -->
 <html>
 <head>
 <title>HTML Web Page</title>
