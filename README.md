@@ -5,7 +5,7 @@
 <!--!DOCTYPE html a -->
 <html>
 <head>
-<title>HTML Web Page</title>
+<!-- <title>HTML Web Page</title> a -->
 </head>
 
 <body style="background-color: aquamarine;">
