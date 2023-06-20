@@ -3,6 +3,4 @@ An Informational webpage about the history of the markup language HTML.
 
 Designed using HTML and CSS
 
-<!- <li>HTML Image - <a href="https://www.hostinger.com/tutorials/what-is-html#Most_Used_HTML_Tags_and_HTML_Elements">HostingerTutorials</a></li> ->
-
-<a href="312assg3.html"> Link to Informational</a>
+<a href="https://github.com/kamoah233/HTML-Informational/blob/09d687eeff56bb9b7b96d143ed64db22903c68d5/312assg3.html"> Link to Informational</a>
