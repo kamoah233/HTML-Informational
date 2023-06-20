@@ -1,4 +1,4 @@
-An Informational webpage about the history of the markup language HTML.
+An Informational webpage about the history,features and related RFCs of the markup language HTML.
 
 
 Designed using HTML and CSS
