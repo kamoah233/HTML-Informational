@@ -7,3 +7,9 @@ Designed using HTML
 
 <a href="https://cs.odu.edu/~cs_kamoa001/312assg3.html"> Link to Informational</a>
 
+
+
+
+
+******************Going to CSS file styling the html file soon ***********************
+
